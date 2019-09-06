@@ -2,7 +2,7 @@
 An android app parodying the match 3 games
 
 ## general informations
-Name : Dangerous Egg
+Name : Dangerous Egg  
 Author : Tempo
 
 ## Contents
