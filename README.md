@@ -7,7 +7,7 @@ Name : Dangerous Egg
 Author : Tempo
 
 ## Contents
-* Click on an egg at the bottom to make him disapear
+* Click on an egg at the bottom to make it disapear
 * if you matches 3 egg together, you loses
 
 ## Download
