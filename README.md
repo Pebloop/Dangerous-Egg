@@ -11,7 +11,15 @@ Author : Tempo
 * if you matches 3 egg together, you loses
 
 ## Download
-* Download the APK on your phone, and enjoy !
+* Download the APK here : https://github.com/TempoDev/Dangerous-Egg/blob/Prototype/Dangerous%20egg%20prototype.apk
+* Install it on your phone
+* Enjoy !
+
+* If it doesn't work :
+* Go to Settings → Security → Unknown Sources
+* Enable Unknown Sources.
+* Install App
+* Enjoy !
 
 ## Screenshot
 
