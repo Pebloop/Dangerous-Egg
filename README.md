@@ -12,3 +12,7 @@ Author : Tempo
 
 ## Download
 * Download the APK on your phone, and enjoy !
+
+## Screenshot
+
+![screenshot](https://github.com/TempoDev/Dangerous-Egg/blob/Prototype/DE%20screen.png)
