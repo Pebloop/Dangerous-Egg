@@ -15,4 +15,4 @@ Author : Tempo
 
 ## Screenshot
 
-![screenshot](https://github.com/TempoDev/Dangerous-Egg/blob/Prototype/DE%20screen.png)
+![screenshot](https://github.com/TempoDev/Dangerous-Egg/blob/Prototype/DE%20screen.png) ![gif](https://github.com/TempoDev/Dangerous-Egg/blob/Prototype/Project5.gif)
