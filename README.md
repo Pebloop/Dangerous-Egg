@@ -5,7 +5,10 @@ An android app parodying the match 3 games
 Name : Dangerous Egg  
 Author : Tempo
 
-## Contents
-
 ## Prototype
 Get the game concept here : https://github.com/TempoDev/Dangerous-Egg/tree/Prototype
+
+## UPDATE
+
+The game got a new name and repo !
+Check here : https://github.com/TempoDev/Cave-Breaker
